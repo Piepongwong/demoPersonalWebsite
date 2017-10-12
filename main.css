@@ -1,0 +1,13 @@
+#dog {
+	background-color: green;
+}
+
+#birthday {
+	background-color: blue;
+}
+
+.demo h1 {
+	float: left;
+	width: 50%;
+	background-color: blue;
+}
